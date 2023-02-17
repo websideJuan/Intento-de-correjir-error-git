@@ -1,0 +1,1 @@
+este texto esta para ser leido por el programa que quiero ejectar desde node js
